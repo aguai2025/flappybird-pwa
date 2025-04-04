@@ -1,0 +1,16 @@
+{
+    "name": "Flappy Bird PWA",
+    "short_name": "FlappyBird",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#70c5ce",
+    "theme_color": "#70c5ce",
+    "icons": [
+      {
+        "src": "img/icons/bird.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
